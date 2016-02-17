@@ -1,8 +1,7 @@
 Hats:
 
 1 Engineer
+(layout and styles)
 2 Anthropologist
 3 Artist
 4 Writer
-5 Security
-6 Futurist
