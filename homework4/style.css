@@ -1,0 +1,98 @@
+body{background-color: black;margin: 0px;font-family: 'PT Sans'}
+.wrapper{width: 100%;margin: 0 auto;}
+.header{width: 1000px;margin: 0 auto;}
+.fig {text-align: center;margin: 0px;}
+header{background-image: url(background1.png);background-repeat: no-repeat;background-position: center center;}
+.logo {margin-top: 63px;margin-bottom: 30px;}
+.header h1{margin: 0px;color: #fff;text-align: center;font-family: 'PT Sans', sans-serif;font-size: 32px;margin-bottom: 24px;margin-top: 5px;margin-left: 11px;}
+p{font-family: 'PT Sans', sans-serif;font-size: 16px;color: #fff;}
+.fig2{text-align: center;margin: 0px;margin-bottom: 55px;margin-left: 12px;}
+.fig3{text-align: center;}
+.play{margin-top: 26px;
+    margin-left: 4px;
+    line-height: 1.5;}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 24px;
+  padding: 13px 42px 13px 42px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.left{width: 440px; float:left;margin-left: 20px;}
+.left h1{color:#fff;font-family: 'PT Sans', sans-serif;font-size: 32px;margin-top: 40px;margin-left: 3px;}
+.content{width: 1000px;margin: 0 auto;height: 231px;}
+.right{width:440px; float:left;padding-left: 80px;}
+.content{background-image: url(bacground2.png);background-repeat: no-repeat;background-position: 125% 100%;margin-top: 130px;}
+.content2{width: 1000px;margin: 0 auto;    height: 253px;clear: both;}
+.bg{background-image: url(bacground3.png);background-repeat: no-repeat;background-position: 5% 100%;height: 390px;}
+.right h1{color:#fff;font-family: 'PT Sans', sans-serif;font-size: 32px;margin-top: 173px;
+    margin-left: 3px;}
+.content3{width: 1000px;margin: 0 auto;margin-top: 110px;
+}
+.bg2{background-image: url(background4.png);background-repeat: no-repeat;height: 650px;
+    background-position: 100% 100%;}
+.footer h1{
+    text-align: center;
+    color: #fff;
+}
+.pict2{
+    margin-top: 153px;
+    margin-left: 6px;
+}
+.catalog{
+    margin-left: 6px;
+}
+.chat{
+    margin-top: 26px;
+    margin-left: 4px;
+    line-height: 1.45;
+}
+.discuss h1{
+    margin-top: 79px;
+    margin-left: 5px;
+}
+.discuss p{
+    margin-top: 25px;
+    margin-left: 5px;
+    line-height: 1.45;
+}
+.note{
+    margin-top: 18px;
+    margin-left: -48px;
+    margin-bottom: 104px;
+}
+.play2{
+    margin-top: 62px;
+}
+.bottom{
+        margin-left: 8px;
+    
+}
+.top{
+    margin-left: 12px;
+}
+
+/*RWD STYLE*/
+
+@media screen and (max-width:800px){
+    
+}
